@@ -42,10 +42,7 @@ function Header() {
 						Search
 					</button>
 				</form>
-				<Avatar
-					className="ml-auto"
-					url="https://64.media.tumblr.com/6e07a77955759da4509acf2fb1414c08/a8dd71779b6be4f8-5c/s250x400/f43441b31fb56d46385a120e0f66c9ff9a5dad1e.png"
-				/>
+				<Avatar className="ml-auto" url="https://i.imgur.com/Za4LivD.jpg" />
 			</div>
 
 			{/* header options */}
